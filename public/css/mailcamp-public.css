@@ -1,0 +1,52 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+form.mailcamp-subscribe-form .mailcamp-gdpr-more{
+    display: none;
+}
+
+form.mailcamp-subscribe-form .mailcamp-form-captcha-sum{
+    float:left;
+    width: 100px;
+    /*text-align: center;*/
+    padding: 0.7em;
+}
+
+form.mailcamp-subscribe-form .mailcamp-form-captcha-field{
+     float:left;
+     width: 80px !important;
+ }
+
+form.mailcamp-subscribe-form .mc-btn-submit{
+    float: right;
+}
+
+form.mailcamp-subscribe-form label{
+    display: block;
+}
+
+form.mailcamp-subscribe-form div.gdpr_description{
+    padding: 10px 0;
+}
+
+.checkbox-spacing {
+    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-right: 0.3em;
+}
+
+form.mailcamp-subscribe-form span.required{
+	color: red;
+}
+
+form.mailcamp-subscribe-form div.mailcamp-form-confirm{
+	clear: both;
+	display: block;
+	margin-top: 10px;
+}
+
+form.mailcamp-subscribe-form div.required_info{
+	float: right;
+	font-size: 0.8em;
+}

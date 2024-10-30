@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.success{
+    background-color: #32cd32;
+}
+
+.warning{
+    background-color: #e77f00;
+}
+
+.danger{
+    background-color: #ff0000;
+}
+
+.status{
+    display: inline-block;
+    padding: 3px 6px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+}

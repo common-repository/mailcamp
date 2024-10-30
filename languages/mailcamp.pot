@@ -1,0 +1,429 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"POT-Creation-Date: 2021-08-03 11:01+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 3.0\n"
+"Project-Id-Version: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MailCamp Settings"
+msgstr ""
+
+msgid "MailCamp API Connection details"
+msgstr ""
+
+msgid "API status"
+msgstr ""
+
+msgid "API path"
+msgstr ""
+
+msgid "API username"
+msgstr ""
+
+msgid ""
+"The 'Username' can be found in the same section respectively under the title "
+"'XML Username'."
+msgstr ""
+
+msgid "Form Settings"
+msgstr ""
+
+msgid ""
+"The XML path looks something like this: http://www.yourdomain.com/mailcamp/"
+"xml.php"
+msgstr ""
+
+msgid ""
+"The 'usertoken' can be found in the same section respectively under the "
+"title 'XML token'."
+msgstr ""
+
+msgid "MailCamp Form details"
+msgstr ""
+
+msgid "Use the shortcode above to place this form on your site"
+msgstr ""
+
+msgid "Use the shortcode above to place this RSS feed on your site"
+msgstr ""
+
+msgid "Email Label"
+msgstr ""
+
+msgid "Field name for the email field. eg 'email' or 'email address'"
+msgstr ""
+
+msgid "Submit Label"
+msgstr ""
+
+msgid "Name for the submit button. eg 'inschrijven' or 'subscribe'"
+msgstr ""
+
+msgid "GDPR / AVG Legislation Requirements"
+msgstr ""
+
+msgid "GDPR description"
+msgstr ""
+
+msgid "More info"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Select a list"
+msgstr ""
+
+msgid "Additional fields"
+msgstr ""
+
+msgid ""
+"Select the additional fields you want to use on the left. The selected "
+"fields appear on the right."
+msgstr ""
+
+msgid "Check API Credentials"
+msgstr ""
+
+msgid "API token"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+# api connected
+msgid "connected"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid ""
+"<p>You can find this in the  'User Account ⇨ Change User' section under the "
+"tab 'User Permissions'. Make sure that 'Enable the XML API' is checked and "
+"saved.</p>"
+msgstr ""
+
+msgid ""
+"Ensure that you comply with the GDPR legislation. You must indicate on each "
+"enrollment or change form how often you will mail, what you will use the "
+"requested data for, how long you will retain personal data and what the "
+"content of the newsletters will be. That's a lot of information! Refer in "
+"the introduction to your privacy statement so that you are legally covered."
+msgstr ""
+
+msgid "<p>Create your subscription form here.</p>"
+msgstr ""
+
+msgid "CONNECTED"
+msgstr ""
+
+msgid "NOT CONNECTED"
+msgstr ""
+
+msgid "<p>Select the list and fields you want to use in your form</p>"
+msgstr ""
+
+msgid "Fetch Custom Fields"
+msgstr ""
+
+msgid "To subscribe, you must agree to the above GDPR privacy legislation."
+msgstr ""
+
+msgid "Read more"
+msgstr ""
+
+msgid ""
+"I have read and agree to the Terms and Conditions and the Privacy Policy of "
+"the GDPR"
+msgstr ""
+
+msgid "Confirm your subscription"
+msgstr ""
+
+# <p>Dank u voor uw aanmelding voor onze nieuwsbrief.</p>
+# <p>Om uw inschrijving te bevestigen dient u op onderstaande link te klikken. Op het moment dat u dit gedaan heeft is uw inschrijving voltooid.</p>
+# <p><a href="' . $confirmlink . '">Klik hier om uw inschrijving te bevestigen</a></p>
+# <p>of copy-paste de volgende URL in de adresbalk van uw browser:</p>
+# <p>' . $confirmlink . '</p>
+# <p>Let op! Vergeet niet ons e-mailadres toe te voegen aan uw adressenlijst of veilige lijst!</p>
+msgid "<p>Thank you for subscribing to our newsletter.</p>"
+msgstr ""
+
+msgid ""
+"<p>To confirm your subscription you need to click on the link below. You "
+"have completed your subscription at the moment you have done this.</p>"
+msgstr ""
+
+msgid "Click here to confirm your subscription"
+msgstr ""
+
+msgid ""
+"<p>Please note! Do not forget to add our e-mail address to your mailing list "
+"or safe list!</p>"
+msgstr ""
+
+msgid ""
+"<p>or copy-paste the following URL into the address bar of your browser:</p>"
+msgstr ""
+
+msgid ""
+"<h3>Your subscription is almost complete..</h3>\n"
+"<p>An e-mail has been sent to your address. There is a confirmation link in "
+"this e-mail. Click on this link to confirm the subscription.<br /></p>\n"
+"<p><strong>Please note! Do not forget to add our email address to your "
+"mailing list or secure list!</strong></p>"
+msgstr ""
+
+msgid ""
+"Whoops .. the subscription has failed, contact the administrator of this "
+"site."
+msgstr ""
+
+msgid "MailCamp Form"
+msgstr ""
+
+msgid "Note: Your shortcode will appear above when this form is saved."
+msgstr ""
+
+msgid "is not a valid email address"
+msgstr ""
+
+msgid ""
+"Small subscription form with only an email field, captcha and GDPR "
+"descriptionlink and check"
+msgstr ""
+
+msgid "MailCamp Widget"
+msgstr ""
+
+msgid "GDPR Widget url"
+msgstr ""
+
+msgid "The url used in the widget form"
+msgstr ""
+
+msgid ""
+"Sign up for the newsletter and receive information about our services, "
+"products and promotions every 4 weeks. For more information, please refer to "
+"our <a href=\"https://www.mailcamp.nl/2017/12/04/nieuwe-europese-privacy-"
+"wetgeving/\">Privacy Statement</a>."
+msgstr ""
+
+msgid ""
+"Short description about validating the GDPR Privacy Policy. <br /"
+"><strong>Optional: </strong>U can use <code>{{content}}</code> as anchor "
+"that links to the GDPR url."
+msgstr ""
+
+msgid "GDPR checkbox text"
+msgstr ""
+
+msgid "The url used in the widget form or/and checkbox text"
+msgstr ""
+
+msgid "I agree the {{GDPR Privacy Policy}}"
+msgstr ""
+
+msgid "You already subscribed to this list"
+msgstr ""
+
+msgid "We just send you a confirm mail"
+msgstr ""
+
+msgid "%s lists found"
+msgstr ""
+
+msgid "Fetch Fields"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+msgid "Custom Confirm enabled"
+msgstr ""
+
+msgid "Custom Confirm Mail"
+msgstr ""
+
+msgid ""
+"Insert your HTML here, use <code>{{confirmlink}}</code> on the place where "
+"you want to use the confirmlink"
+msgstr ""
+
+msgid "listid"
+msgstr ""
+
+msgid "listname"
+msgstr ""
+
+msgid "shortcode"
+msgstr ""
+
+msgid "subscribecount"
+msgstr ""
+
+msgid "unsubscribecount"
+msgstr ""
+
+msgid "bouncecount"
+msgstr ""
+
+msgid "Copy Shortcode"
+msgstr ""
+
+msgid "MailCamp for WP Settings"
+msgstr ""
+
+msgid "RSS Settings"
+msgstr ""
+
+msgid "bounces"
+msgstr ""
+
+msgid "spf"
+msgstr ""
+
+msgid "dkim"
+msgstr ""
+
+msgid "MailCamp RSS"
+msgstr ""
+
+msgid ""
+"<p>You are just one click away from subscribing to our newsletter. Please "
+"click on the link down below to confirm your registration.</p>"
+msgstr ""
+
+msgid ""
+"<p>If you did not sign up for our newsletter, please ignore this email.</p>"
+msgstr ""
+
+msgid "Please verify your email"
+msgstr ""
+
+msgid "checked"
+msgstr ""
+
+msgid "unchecked"
+msgstr ""
+
+msgid "I would like to receive the newsletter"
+msgstr ""
+
+msgid ""
+"The WooCommerce plugin is currently not installed and/or activated.<a href="
+"\"plugins.php\" style=\"color: #ffffff;\">Manage Plugins</a>"
+msgstr ""
+
+msgid "After the customer order notes field [woocommerce_after_order_notes]"
+msgstr ""
+
+
+msgid "Before the \"Submit order\" button [woocommerce_review_order_before_submit]"
+msgstr ""
+
+msgid "Important note:"
+msgstr ""
+
+msgid ""
+"When selecting the 'woocommerce_review_order_before_submit' layout position "
+"make sure to assign a WooCommerce 'Terms and conditions' page first. "
+"Otherwise the newsletter subscription checkbox won't be displayed."
+msgstr ""
+
+msgid "Manage WooCommerce integration"
+msgstr ""
+
+msgid "When 'double opt-in' has been enabled, please add an Autoresponder to the MailCamp list selected above "
+"using the filter under Search Options; 'Match Confirmation Status = Unconfirmed'. "
+"The autoresponder must contain a %%confirmlink%% tag as a confirmation link."
+msgstr ""
+
+msgid ""
+"Select the MailCamp list and fields you want to synchronize with WooCommerce"
+msgstr ""
+
+msgid ""
+"After selecting a list above please click the 'Fetch Fields' or 'Save "
+"Changes' button. After this you are able to map WooCommerce field data with "
+"MailCamp fields."
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "WooCommerce Field Name"
+msgstr ""
+
+msgid "MailCamp field"
+msgstr ""
+
+msgid "Billing"
+msgstr ""
+
+msgid "Shipping"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Select a field"
+msgstr ""
+
+msgid ""
+"Are you sure you want to change the list? Any previous mapped custom fields "
+"could be lost."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "MailCamp for WooCommerce"
+msgstr ""
+
+msgid "WooCommerce integration enabled"
+msgstr ""
+
+msgid "Checkbox layout position"
+msgstr ""
+
+msgid "Checkbox default value"
+msgstr ""
+
+msgid "Custom signup message"
+msgstr ""
+
+msgid "Double opt-in subscribers"
+msgstr ""
+
+msgid ""
+"Select the WooCommerce fields you want to map on the left. Select the "
+"MailCamp fields on the right."
+msgstr ""
+
+msgid "Mapped WooCommerce fields"
+msgstr ""
+
+msgid "Pay attention! In case the MailCamp field is a dropdown, radio button, date or checkbox field, "
+       "it's value must match exactly the value from WooCommerce."
+msgstr ""
+
+msgid "Required field"
+msgstr "Verplicht veld"

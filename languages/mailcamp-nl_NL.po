@@ -1,0 +1,682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailCamp\n"
+"POT-Creation-Date: 2024-07-22 15:06+0200\n"
+"PO-Revision-Date: 2024-07-22 15:11+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mailcamp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-mailcamp-admin.php:119 admin/class-mailcamp-admin.php:120
+msgid "MailCamp for WP Settings"
+msgstr "MailCamp voor WP Instellingen"
+
+#: admin/class-mailcamp-admin.php:130 admin/class-mailcamp-admin.php:482
+msgid "Form Settings"
+msgstr "Formulier Instellingen"
+
+#: admin/class-mailcamp-admin.php:131
+msgid "MailCamp Form"
+msgstr "MailCamp Formulier"
+
+#: admin/class-mailcamp-admin.php:139
+msgid "RSS Settings"
+msgstr "RSS instellingen"
+
+#: admin/class-mailcamp-admin.php:140
+msgid "MailCamp RSS"
+msgstr "MailCamp RSS"
+
+#: admin/class-mailcamp-admin.php:148
+msgid "WooCommerce Settings"
+msgstr "WooCommerce instellingen"
+
+#: admin/class-mailcamp-admin.php:149
+msgid "MailCamp for WooCommerce"
+msgstr "MailCamp voor WooCommerce"
+
+#: admin/class-mailcamp-admin.php:213
+msgid "Check API Credentials"
+msgstr "Controleer de API gegevens"
+
+#: admin/class-mailcamp-admin.php:247
+msgid "MailCamp API Connection details"
+msgstr "MailCamp API Connectie details"
+
+#: admin/class-mailcamp-admin.php:254
+msgid "API status"
+msgstr "API status"
+
+#: admin/class-mailcamp-admin.php:266
+msgid "API path"
+msgstr "API pad"
+
+#: admin/class-mailcamp-admin.php:272
+msgid ""
+"The XML path looks something like this: http://www.yourdomain.com/mailcamp/"
+"xml.php"
+msgstr ""
+"Het XML pad ziet er ongeveer als volgt uit: http://www.yourdomain.com/"
+"mailcamp/xml.php"
+
+#: admin/class-mailcamp-admin.php:279
+msgid "API username"
+msgstr "API gebruikersnaam"
+
+#: admin/class-mailcamp-admin.php:285
+msgid ""
+"The 'Username' can be found in the same section respectively under the title "
+"'XML Username'."
+msgstr ""
+"De ‘Gebruikersnaam’ is te vinden in dezelfde sectie onder de titel ‘XML "
+"Gebruikersnaam’."
+
+#: admin/class-mailcamp-admin.php:292
+msgid "API token"
+msgstr "API token"
+
+#: admin/class-mailcamp-admin.php:298
+msgid ""
+"The 'usertoken' can be found in the same section respectively under the "
+"title 'XML token'."
+msgstr ""
+"De ‘usertoken’ is te vinden in dezelfde sectie onder de titel ‘XML "
+"Gebruikersnaam’ en ‘XML token’."
+
+#: admin/class-mailcamp-admin.php:377 admin/class-mailcamp-admin.php:585
+#: admin/class-mailcamp-admin.php:688 admin/class-mailcamp-admin.php:825
+msgid "Check API credentials"
+msgstr "Controleer de API gegevens"
+
+#: admin/class-mailcamp-admin.php:388 admin/class-mailcamp-admin.php:701
+msgid "MailCamp Form details"
+msgstr "MailCamp formulier details"
+
+#: admin/class-mailcamp-admin.php:395
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-mailcamp-admin.php:402
+msgid "Use the shortcode above to place this form on your site"
+msgstr ""
+"Gebruik de bovenstaande shortcode om het formulier op uw site te plaatsen"
+
+#: admin/class-mailcamp-admin.php:409
+msgid "Email Label"
+msgstr "E-mail Label"
+
+#: admin/class-mailcamp-admin.php:415
+msgid "Field name for the email field. eg 'email' or 'email address'"
+msgstr "Veldnaam voor het e-mail veld. Bijvoorbeeld ‘email’ of ‘e-mailadres’."
+
+#: admin/class-mailcamp-admin.php:422
+msgid "Submit Label"
+msgstr "Inschrijven Label"
+
+#: admin/class-mailcamp-admin.php:428
+msgid "Name for the submit button. eg inschrijven or subscribe"
+msgstr "Naam voor de verzend-knop. Bijvoorbeeld ‘Inschrijven’ of ‘Subscribe’."
+
+#: admin/class-mailcamp-admin.php:435
+msgid "GDPR / AVG Legislation Requirements"
+msgstr "Vereisten voor GDPR / AVG-wetgeving"
+
+#: admin/class-mailcamp-admin.php:442
+msgid "GDPR checkbox text"
+msgstr "AVG/GDPR checkbox tekst"
+
+#: admin/class-mailcamp-admin.php:448
+msgid ""
+"Short description about validating the GDPR Privacy Policy. <br /"
+"><strong>Optional: </strong>U can use <code>{{content}}</code> as an anchor "
+"that links to the GDPR url."
+msgstr ""
+"Korte beschrijving over de AVG/GDPR wetgeving.<br /><strong>Optioneel:</"
+"strong> Je kan dubbele brackets <code>{{content}}</code> gebruiken om een "
+"link naar je privacy pagina te maken."
+
+#: admin/class-mailcamp-admin.php:455
+msgid "GDPR url"
+msgstr "AVG/GDPR Widget link"
+
+#: admin/class-mailcamp-admin.php:461
+msgid "The url used in the widget form or/and checkbox text"
+msgstr "De link die zal worden gebruikt in de widget en checkbox tekst"
+
+#: admin/class-mailcamp-admin.php:468
+msgid "GDPR description"
+msgstr "AVG/GDPR beschrijving"
+
+#: admin/class-mailcamp-admin.php:474
+msgid "More info"
+msgstr "Meer info"
+
+#: admin/class-mailcamp-admin.php:491 admin/class-mailcamp-admin.php:847
+msgid "List"
+msgstr "Lijst"
+
+#: admin/class-mailcamp-admin.php:497 admin/class-mailcamp-admin.php:853
+msgid "Select a list"
+msgstr "Selecteer een lijst"
+
+#: admin/class-mailcamp-admin.php:521
+msgid "Extra fields"
+msgstr "Extra velden"
+
+#: admin/class-mailcamp-admin.php:527
+msgid ""
+"Select the additional fields you want to use on the left. The selected "
+"fields appear on the right."
+msgstr ""
+"Selecteer aan de linker kant de extra velden die je wilt gebruiken. De "
+"geselecteerde velden zullen rechts verschijnen."
+
+#: admin/class-mailcamp-admin.php:537
+msgid "Custom Confirm enabled"
+msgstr "Eigen bevestigingsmail ingeschakeld"
+
+#: admin/class-mailcamp-admin.php:549
+msgid "Custom Confirm Mail"
+msgstr "Eigen bevestigingsmail"
+
+#: admin/class-mailcamp-admin.php:555
+msgid ""
+"Insert your HTML here, use <code>{{confirmlink}}</code> on the place where "
+"you want to use the confirmlink"
+msgstr ""
+"Voeg je eigen HTML code hier in, gebruik <code>{{confirmlink}}</code> op de "
+"plaats waar je de bevestigings-link wilt gebruiken"
+
+#: admin/class-mailcamp-admin.php:613
+#, php-format
+msgid "%s lists found"
+msgstr "%s lijsten gevonden"
+
+#: admin/class-mailcamp-admin.php:617
+msgid "listid"
+msgstr "lijst nummer (ID)"
+
+#: admin/class-mailcamp-admin.php:618
+msgid "listname"
+msgstr "lijst naam"
+
+#: admin/class-mailcamp-admin.php:619
+msgid "shortcode"
+msgstr "shortcode"
+
+#: admin/class-mailcamp-admin.php:621
+msgid "subscribecount"
+msgstr "ingeschreven"
+
+#: admin/class-mailcamp-admin.php:622
+msgid "unsubscribecount"
+msgstr "uitgeschreven"
+
+#: admin/class-mailcamp-admin.php:623
+msgid "bouncecount"
+msgstr "bounces"
+
+#: admin/class-mailcamp-admin.php:624
+msgid "spf"
+msgstr "spf"
+
+#: admin/class-mailcamp-admin.php:625
+msgid "dkim"
+msgstr "dkim"
+
+#: admin/class-mailcamp-admin.php:642 admin/settings-callbacks.php:73
+msgid "Copy Shortcode"
+msgstr "Shortcode kopiëren"
+
+#: admin/class-mailcamp-admin.php:717
+msgid "Use the shortcode above to place this RSS feed on your site"
+msgstr ""
+"Gebruik de bovenstaande shortcode om de RSS feed op uw site te plaatsen"
+
+#: admin/class-mailcamp-admin.php:759
+msgid "MailCamp for Woocommerce"
+msgstr "MailCamp voor WooCommerce"
+
+#: admin/class-mailcamp-admin.php:772
+msgid "WooCommerce integration enabled"
+msgstr "WooCommerce integratie inschakelen"
+
+#: admin/class-mailcamp-admin.php:784
+msgid "Checkbox layout position"
+msgstr "Layout positie van de checkbox"
+
+#: admin/class-mailcamp-admin.php:792
+msgid "Checkbox default value"
+msgstr "Standaardwaarde van de checkbox"
+
+#: admin/class-mailcamp-admin.php:800
+msgid "Custom signup message"
+msgstr "Aangepaste inschrijf label"
+
+#: admin/class-mailcamp-admin.php:832
+msgid "List settings"
+msgstr "RSS instellingen"
+
+#: admin/class-mailcamp-admin.php:885
+msgid "Double opt-in subscribers"
+msgstr "Double opt-in (e-mail bevestiging van aanmelding) inschakelen"
+
+#: admin/class-mailcamp-admin.php:893 admin/class-mailcamp-admin.php:907
+msgid "Mapped WooCommerce fields"
+msgstr "Gekoppelde WooCommerce velden"
+
+#: admin/class-mailcamp-admin.php:899
+msgid ""
+"Select the WooCommerce fields you want to map on the left. Select the "
+"MailCamp fields on the right."
+msgstr ""
+"Selecteer aan de linkerzijde de WooCommerce velden die je wil koppelen. "
+"Selecteer de MailCamp velden aan de rechterzijde."
+
+#: admin/settings-callbacks.php:33
+msgid ""
+"Sign up for the newsletter and receive information about our services, "
+"products and promotions every 4 weeks. For more information, please refer to "
+"our <a href=\"https://www.mailcamp.nl/2017/12/04/nieuwe-europese-privacy-"
+"wetgeving/\">Privacy Statement</a>."
+msgstr ""
+"Schrijf u in voor de nieuwsbrief en ontvang elke 4 weken informatie over "
+"onze diensten, producten en acties. Voor meer informatie verwijzen wij naar "
+"onze <a href=”https://www.mailcamp.nl/2017/12/04/nieuwe-europese-privacy-"
+"wetgeving/”>Privacy Statement</a>."
+
+#: admin/settings-callbacks.php:36
+msgid "I agree the {{GDPR Privacy Policy}}"
+msgstr "Ik ga akkoord met het {{privacy statement}}"
+
+#: admin/settings-callbacks.php:38
+msgid "email"
+msgstr "e-mail"
+
+#: admin/settings-callbacks.php:39
+msgid "subscribe"
+msgstr "inschrijven"
+
+#: admin/settings-callbacks.php:41 admin/settings-callbacks.php:42
+#: admin/settings-callbacks.php:46
+msgid "on"
+msgstr "aan"
+
+#: admin/settings-callbacks.php:41 admin/settings-callbacks.php:42
+#: admin/settings-callbacks.php:46
+msgid "off"
+msgstr "uit"
+
+#: admin/settings-callbacks.php:43
+msgid "checked"
+msgstr "aangevinkt"
+
+#: admin/settings-callbacks.php:43
+msgid "unchecked"
+msgstr "uitgevinkt"
+
+#: admin/settings-callbacks.php:45 public/class-mailcamp-public.php:293
+msgid "I would like to receive the newsletter"
+msgstr "Ik wil tevens de nieuwsbrief ontvangen"
+
+#: admin/settings-callbacks.php:69
+msgid "Note: Your shortcode will appear above when this form is saved."
+msgstr ""
+"Let op: Je shortcode zal hierboven verschijnen wanneer dit formulier is "
+"opgeslagen."
+
+#: admin/settings-callbacks.php:87 admin/settings-callbacks.php:99
+msgid ""
+"<p>You can find this in the  'User Account ⇨ Change User' section under the "
+"tab 'User Permissions'. Make sure that 'Enable the XML API' is checked and "
+"saved.</p>"
+msgstr ""
+"<p>U kunt het vinden onder ‘Gebruikers account ⇨ Wijzig gebruiker’ sectie "
+"onder de tab ‘Gebruiker permissies’. Zorg ervoor dat ‘XML-API inschakelen’ "
+"is aangevinkt en opgeslagen.</p>"
+
+#: admin/settings-callbacks.php:111
+msgid ""
+"Ensure that you comply with the GDPR legislation. You must indicate on each "
+"enrollment or change form how often you will mail, what you will use the "
+"requested data for, how long you will retain personal data and what the "
+"content of the newsletters will be. That's a lot of information! Refer in "
+"the introduction to your privacy statement so that you are legally covered."
+msgstr ""
+"Zorg ervoor dat u voldoet aan de GDPR wetgeving. U dient bij elk inschrijf- "
+"of wijzigingsformulier aan te geven hoe vaak u gaat mailen, waar u de "
+"gevraagde gegevens voor gaat gebruiken, hoe lang u persoonsgegevens bewaard "
+"blijven en wat de content van de nieuwsbrieven zal zijn. Dat is veel "
+"informatie! Verwijs dus in de introductie naar uw privacy-verklaring zodat u "
+"juridisch bent ingedekt."
+
+#: admin/settings-callbacks.php:123
+msgid "<p>Create your subscription form here.</p>"
+msgstr "<p>Maak hier uw inschrijfformulier aan.</p>"
+
+#: admin/settings-callbacks.php:133
+msgid "<p>Select the list and fields you want to use in your form</p>"
+msgstr ""
+"<p>Selecteer de lijst en velden die je wilt gebruiken in je formulier</p>"
+
+#: admin/settings-callbacks.php:146
+msgid "CONNECTED"
+msgstr "VERBONDEN"
+
+#: admin/settings-callbacks.php:150
+msgid "NOT CONNECTED"
+msgstr "NIET VERBONDEN"
+
+#: admin/settings-callbacks.php:188
+msgid "Fetch Fields"
+msgstr "Velden ophalen"
+
+#: admin/settings-callbacks.php:370
+msgid "Manage WooCommerce integration"
+msgstr "WooCommerce integratie beheren"
+
+#: admin/settings-callbacks.php:373
+msgid ""
+"The WooCommerce plugin is currently not installed and/or activated. <a "
+"href=\"plugins.php\" style=\"color: #ffffff;\">Manage Plugins</a>"
+msgstr ""
+"De WooCommerce plugin is momenteel niet geïnstalleerd en/of geactiveerd. <a "
+"href=“plugins.php” style=“color: #ffffff;”>Beheer Plugins</a>"
+
+#: admin/settings-callbacks.php:397
+msgid "After the customer order notes field [woocommerce_after_order_notes]"
+msgstr "Na het “klant-notitie” veld [woocommerce_after_order_notes]"
+
+#: admin/settings-callbacks.php:398
+msgid "Before \"Submit order\" button [woocommerce_review_order_before_submit]"
+msgstr ""
+"Voor de “Bevestig bestelling” button [woocommerce_review_order_before_submit]"
+
+#: admin/settings-callbacks.php:411 admin/settings-callbacks.php:450
+msgid "Important note:"
+msgstr "Belangrijke noot:"
+
+#: admin/settings-callbacks.php:411
+msgid ""
+"When selecting the 'woocommerce_review_order_before_submit' layout position "
+"make sure to assign a WooCommerce 'Terms and conditions' page first. "
+"Otherwise the newsletter subscription checkbox won't be displayed."
+msgstr ""
+"Zorg ervoor dat je een WooCommerce ‘Algemene voorwaarden’ pagina hebt "
+"ingesteld wanneer de ‘woocommerce_review_order_before_submit’ layout positie "
+"is geselecteerd. De inschrijf-checkbox kan anders niet worden weergegeven."
+
+#: admin/settings-callbacks.php:411
+msgid "Manage WooCommerce Settings"
+msgstr "WooCommerce instellingen"
+
+#: admin/settings-callbacks.php:450
+#, php-format
+msgid ""
+"When 'double opt-in' has been enabled, please add an Autoresponder to the "
+"MailCamp list selected above using the filter under Search Options; 'Match "
+"Confirmation Status = Unconfirmed'. The autoresponder must contain a "
+"%%confirmlink%% tag as a confirmation link."
+msgstr ""
+"Als ‘dubbele opt-in’ is ingeschakeld, voeg dan een Autoresponder toe aan de "
+"hierboven geselecteerde MailCamp lijst met als filter onder Zoek Opties; "
+"‘Match Bevestigde Status = niet-Bevestigd’. De autoresponder moet een "
+"<strong>%%confirmlink%%</strong> tag bevatten als bevestigingslink."
+
+#: admin/settings-callbacks.php:456
+msgid ""
+"Select the MailCamp list and fields you want to synchronize with WooCommerce"
+msgstr ""
+"Selecteer de MailCamp lijst en velden die je wil synchroniseren met "
+"WooCommerce"
+
+#: admin/settings-callbacks.php:468
+msgid ""
+"After selecting a list above please click the 'Fetch Fields' or 'Save "
+"Changes' button. After this you are able to map WooCommerce field data with "
+"MailCamp fields."
+msgstr ""
+"Klik op de “Wijzigingen opslaan” of “Velden ophalen” knop nadat je hierboven "
+"een lijst hebt geselecteerd. Vervolgens kun je de WooCommerce velden "
+"koppelen met de MailCamp velden."
+
+#: admin/settings-callbacks.php:472
+msgid ""
+"Pay attention! In case the MailCamp field is a dropdown, radio button, date "
+"or checkbox field, it's value must match exactly the value from WooCommerce."
+msgstr ""
+"Let op! Indien het MailCamp veld een dropdown, radiobutton, datum of "
+"checkbox veld is moet de waarde uit WooCommerce exact overeenkomen."
+
+#: admin/settings-callbacks.php:491
+msgid "Category"
+msgstr "Categorie"
+
+#: admin/settings-callbacks.php:491
+msgid "WooCommerce Field Name"
+msgstr "WooCommerce veld naam"
+
+#: admin/settings-callbacks.php:491
+msgid "MailCamp field"
+msgstr "MailCamp veld naam"
+
+#: admin/settings-callbacks.php:496
+msgid "Billing"
+msgstr "Facturatie"
+
+#: admin/settings-callbacks.php:505
+msgid "Shipping"
+msgstr "Verzending"
+
+#: admin/settings-callbacks.php:512
+msgid "Account"
+msgstr "Account"
+
+#: admin/settings-callbacks.php:519
+msgid "Order"
+msgstr "Bestelling"
+
+#: admin/settings-callbacks.php:532
+msgid "Select a field"
+msgstr "Selecteer een veld"
+
+# api connected
+#: includes/class-mailcamp-api.php:59
+msgid "connected"
+msgstr "verbonden"
+
+#: includes/class-mailcamp-widget.php:34
+msgid "MailCamp Widget"
+msgstr "MailCamp Widget"
+
+#: includes/class-mailcamp-widget.php:38
+msgid ""
+"Small subscription form with only an email field, captcha and GDPR "
+"descriptionlink and check"
+msgstr ""
+"Compact inschrijf-formulier met alleen een e-mail veld, captcha en GDPR "
+"beschrijvingslink en check"
+
+#: includes/class-mailcamp-widget.php:82
+msgid "Form shortcode:"
+msgstr "Formulier shortcode:"
+
+#: includes/core-functions.php:72
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: includes/core-functions.php:142
+msgid "Read more"
+msgstr "Lees meer"
+
+#: includes/core-functions.php:204
+msgid "To subscribe, you must agree to the above GDPR privacy legislation."
+msgstr ""
+"Om u in te schrijven, moet u akkoord gaan met de bovenstaande AVG/GDPR "
+"privacywetgeving."
+
+#: public/class-mailcamp-public.php:140
+msgid "is not a valid email address"
+msgstr "is geen geldig email adres"
+
+#: public/class-mailcamp-public.php:171
+msgid "You already subscribed to this list"
+msgstr "Je hebt je al ingeschreven voor deze lijst"
+
+#: public/class-mailcamp-public.php:177
+msgid "We just send you a confirm mail"
+msgstr "We hebben je zojuist een bevestigingsmail toegestuurd"
+
+#: public/class-mailcamp-public.php:205
+msgid "Please verify your email"
+msgstr "Bevestig uw inschrijving"
+
+#: public/class-mailcamp-public.php:218
+msgid "Confirm your registration"
+msgstr "Bevestig uw inschrijving"
+
+#: public/class-mailcamp-public.php:229
+msgid "Confirm your subscription"
+msgstr "Bevestig uw inschrijving"
+
+#: public/class-mailcamp-public.php:230
+msgid ""
+"<p>You are just one click away from subscribing to our newsletter. Please "
+"click on the link down below to confirm your registration.</p>"
+msgstr ""
+"<p>U bent slechts één klik verwijderd van uw inschrijving op onze "
+"nieuwsbrief. Klik op de onderstaande link om uw registratie te bevestigen.</"
+"p>"
+
+#: public/class-mailcamp-public.php:231
+msgid "Click here to confirm your subscription"
+msgstr "Klik hier om uw inschrijving te bevestigen"
+
+#: public/class-mailcamp-public.php:232
+msgid ""
+"<p>or copy-paste the following URL into the address bar of your browser:</p>"
+msgstr ""
+"<p>of kopieer en plak de volgende link in de adresbalk van uw browser:</p>"
+
+#: public/class-mailcamp-public.php:234
+msgid ""
+"<p>Please note! Do not forget to add our e-mail address to your mailing list "
+"or safe list!</p>"
+msgstr ""
+"<p>Let op! Vergeet niet om ons e-mailadres toe te voegen aan uw "
+"adressenlijst of veilige lijst!</p>"
+
+#: public/class-mailcamp-public.php:235
+msgid ""
+"<p>If you did not sign up for our newsletter, please ignore this email.</p>"
+msgstr ""
+"<p>Wanneer u zich niet heeft aangemeld voor onze nieuwsbrief kunt u deze e-"
+"mail negeren.</p>"
+
+#: public/class-mailcamp-public.php:248
+msgid "Your subscription is almost complete..."
+msgstr "Uw inschrijving is bijna voltooid..."
+
+#: public/class-mailcamp-public.php:249
+msgid ""
+"An e-mail has been sent to your address. There is a confirmation link in "
+"this e-mail. Click on this link to confirm the subscription."
+msgstr ""
+"Er is een e-mail naar uw adres gestuurd. Deze e-mail bevat een bevestigings-"
+"link. Klik op deze link om de inschrijving te bevestigen."
+
+#: public/class-mailcamp-public.php:250
+msgid ""
+"Please note! Do not forget to add our email address to your mailing list or "
+"secure list!"
+msgstr ""
+"Let op! Vergeet niet om ons e-mailadres toe te voegen aan uw adressenlijst "
+"of veilige lijst!"
+
+#: public/class-mailcamp-public.php:263
+msgid ""
+"Whoops .. the subscription has failed, contact the administrator of this site"
+msgstr ""
+"Oeps.. De inschrijving is mislukt. Contacteer aub de website beheerder."
+
+#. Plugin Name of the plugin/theme
+msgid "MailCamp"
+msgstr "MailCamp RSS"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://mailcamp.nl/ecommerce/koppel-wordpress-plugin-aan-mailinglijst-in-"
+"mailcamp/"
+msgstr ""
+"https://mailcamp.nl/ecommerce/koppel-wordpress-plugin-aan-mailinglijst-in-"
+"mailcamp/"
+
+#. Description of the plugin/theme
+msgid ""
+"MailCamp form plugin. A simple plugin that adds a highly effective "
+"subscription form to your site."
+msgstr ""
+"MailCamp formulier plugin. Een eenvoudige plugin die een inschrijfformulier "
+"op uw website plaatst."
+
+#. Author of the plugin/theme
+msgid "Silas de Rooy"
+msgstr "Silas de Rooy"
+
+#. Author URI of the plugin/theme
+msgid "https://mailcamp.nl"
+msgstr "https://mailcamp.nl"
+
+#~ msgid "MailCamp Settings"
+#~ msgstr "MailCamp instellingen"
+
+#~ msgid "Fetch Custom Fields"
+#~ msgstr "Extra velden ophalen"
+
+#~ msgid ""
+#~ "I have read and agree to the Terms and Conditions and the Privacy Policy "
+#~ "of the GDPR"
+#~ msgstr "Ik heb het AVG/GDPR privacybeleid gelezen en ga hiermee akkoord"
+
+# <p>Dank u voor uw aanmelding voor onze nieuwsbrief.</p>
+# <p>Om uw inschrijving te bevestigen dient u op onderstaande link te klikken. Op het moment dat u dit gedaan heeft is uw inschrijving voltooid.</p>
+# <p><a href="' . $confirmlink . '">Klik hier om uw inschrijving te bevestigen</a></p>
+# <p>of copy-paste de volgende URL in de adresbalk van uw browser:</p>
+# <p>' . $confirmlink . '</p>
+# <p>Let op! Vergeet niet ons e-mailadres toe te voegen aan uw adressenlijst of veilige lijst!</p>
+#~ msgid "<p>Thank you for subscribing to our newsletter.</p>"
+#~ msgstr "<p>Bedankt voor het inschrijven voor de nieuwsbrief.</p>"
+
+#~ msgid ""
+#~ "<p>To confirm your subscription you need to click on the link below. You "
+#~ "have completed your subscription at the moment you have done this.</p>"
+#~ msgstr ""
+#~ "<p>Om uw inschrijving te bevestigen dient u op onderstaande link te "
+#~ "klikken. Op het moment dat u dit gedaan heeft is uw inschrijving voltooid."
+#~ "</p>"
+
+#~ msgid "The url used in the widget form"
+#~ msgstr "De link die zal worden gebruikt binnen de widget"
+
+#~ msgid "bounces"
+#~ msgstr "bounces"
+
+#~ msgid ""
+#~ "Are you sure you want to change the list? Any previous mapped custom "
+#~ "fields could be lost."
+#~ msgstr ""
+#~ "Weet je zeker dat je de geselecteerde lijst wil wijzigen? Reeds "
+#~ "gekoppelde velden kunnen verloren gaan."
